@@ -30,7 +30,7 @@ describe('index.js', function () {
       expect(scuberGreetingForFeet(199)).to.equal('This one is on me!');
     });
 
-    // tests continue...
+    // tests continue...z 
   });
 });
 ```
